@@ -29,6 +29,7 @@ libelf-dev libncurses5-dev libssl-dev make openssl \
 pahole perl-base rsync tar xz-utils autoconf gperf \
 autopoint texinfo texi2html gettext gawk bzip2 \
 qemu-system-x86 libtool
+```
 
 
 > 💡 These packages are essential for compiling the Linux kernel, building userland utilities, and running the system in a virtualized environment.  
